@@ -1,0 +1,44 @@
+[
+    {
+        "ip":"26.181.122.228",
+        "password":"ammnds20033002",
+        "role":"ADMIN",
+        "name":"Local Administrator"
+    },
+    {
+        "ip":"177.107.116.48",
+        "password":"jvs1202",
+        "role":"ADMIN",
+        "name":"Local Administrator"
+    },
+	{
+        "ip":"164.163.45.186",
+        "password":"12456100",
+        "role":"MODER",
+        "name":"Local Moderator"
+    },
+	{
+        "ip":"187.21.210.103",
+        "password":"peruquinha",
+        "role":"MODER",
+        "name":"Local Moderator"
+    },
+	{
+        "ip":"187.180.189.249",
+        "password":"cuntnepalavrao01",
+        "role":"MODER",
+        "name":"Local Moderator"
+    },
+    {
+        "ip":"127.0.0.1",
+        "password":"",
+        "role":"MODER",
+        "name":"Local Moderator"
+    },
+    {
+        "ip":"127.0.0.1",
+        "password":"",
+        "role":"USER",
+        "name":"Local User"
+    }
+]
